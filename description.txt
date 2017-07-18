@@ -5,3 +5,5 @@ Part II: I got new data
 Part III: I change some data
 
 Part IV: this is exploratory stuff
+
+STAT
