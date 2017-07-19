@@ -1,9 +1,2 @@
-Can I see it?
-
-Part II: I got new data
-
-Part III: I change some data
-
-Part IV: this is exploratory stuff
-
-STURMY
+Git is a version control system.
+Git is free software.
